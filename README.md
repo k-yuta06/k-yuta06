@@ -23,6 +23,4 @@
 
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-yuta06&show_icons=true&theme=radical)
-
-## My Top Languages
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=k-yuta06&layout=compact)
