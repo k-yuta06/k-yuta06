@@ -1,5 +1,6 @@
 # Hi 👋 I'm yuta
 
+## About me
 ・I'm a university student  
 ・I've been learning programming languages for one and a half years  
 ・I've been building websites, first learning HTML, CSS and Sass  
