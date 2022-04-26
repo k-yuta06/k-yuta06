@@ -22,5 +22,5 @@
 </div>
 
 ## My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-yuta06&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-yuta06&show_icons=true&theme=radical)  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=k-yuta06&layout=compact)
